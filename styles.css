@@ -12,6 +12,12 @@
   width: 100px;
   height: 100px;
   background-color: red;
+  text-align: center;
+  padding: 10px;
+  color: white;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-
-/* Your CSS Code here. */
